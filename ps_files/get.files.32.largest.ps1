@@ -1,0 +1,1 @@
+Get-ChildItem c:\ -recurse | Sort-Object length -descending | select-object -first 32 | ft fullname,length -wrap –auto

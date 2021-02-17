@@ -1,0 +1,132 @@
+624;User Account Created
+626;User Account Enabled
+627;Change Password Attempt
+628;User Account password set
+629;User Account Disabled
+630;User Account Deleted
+631;Security Enabled Global Group Created
+632;Security Enabled Global Group Member Added
+633;Security Enabled Global Group Member Removed
+634;Security Enabled Global Group Deleted
+635;Security Enabled Local Group Created
+636;Security Enabled Local Group Member Added
+637;Security Enabled Local Group Member Removed
+638;Security Enabled Local Group Deleted
+639;Security Enabled Local Group Changed
+640;General Account Database Change
+641;Security Enabled Global Group Changed
+642;User Account Changed
+643;Domain Policy Changed
+644;User Account Locked Out
+645;Computer Account Created
+646;Computer Account Changed
+647;Computer Account Deleted
+648;Security Disabled Local Group Created
+649;Security Disabled Local Group Changed
+650;Security Disabled Local Group Member Added
+651;Security Disabled Local Group Member Removed
+652;Security Disabled Local Group Deleted
+653;Security Disabled Global Group Created
+654;Security Disabled Global Group Changed
+655;Security Disabled Global Group Member Added
+656;Security Disabled Global Group Member Removed
+657;Security Disabled Global Group Deleted
+658;Security Enabled Universal Group Created
+659;Security Enabled Universal Group Changed
+660;Security Enabled Universal Group Member Added
+661;Security Enabled Universal Group Member Removed
+662;Security Enabled Universal Group Deleted
+663;Security Disabled Universal Group Created
+664;Security Disabled Universal Group Changed
+665;Security Disabled Universal Group Member Added
+666;Security Disabled Universal Group Member Removed
+667;Security Disabled Universal Group Deleted
+668;Group Type Changed
+669;Add SID History
+670;Add SID History
+671;User Account Unlocked
+684;Set ACLs of members in administrators groups
+685;Account Name Changed
+686;Password of the following user accessed
+687;Basic Application Group Created
+688;Basic Application Group Changed
+689;Basic Application Group Member Added
+690;Basic Application Group Member Removed
+691;Basic Application Group Non-Member Added
+692;Basic Application Group Non-Member Removed
+693;Basic Application Group Deleted
+694;LDAP Query Group Created
+695;LDAP Query Group Changed
+696;LDAP Query Group Deleted
+697;Password Policy Checking API is called
+4625;An account failed to log on.
+4720;A user account was created
+4722;A user account was enabled
+4723;An attempt was made to change an account's password
+4724;An attempt was made to reset an accounts password
+4725;A user account was disabled
+4726;A user account was deleted
+4727;A security-enabled global group was created
+4728;A member was added to a security-enabled global group
+4729;A member was removed from a security-enabled global group
+4730;A security-enabled global group was deleted
+4731;A security-enabled local group was created
+4732;A member was added to a security-enabled local group
+4733;A member was removed from a security-enabled local group
+4734;A security-enabled local group was deleted
+4735;A security-enabled local group was changed
+4737;A security-enabled global group was changed
+4738;A user account was changed
+4739;Domain Policy was changed
+4740;A user account was locked out
+4741;A computer account was created
+4742;A computer account was changed
+4743;A computer account was deleted
+4744;A security-disabled local group was created
+4745;A security-disabled local group was changed
+4746;A member was added to a security-disabled local group
+4747;A member was removed from a security-disabled local group
+4748;A security-disabled local group was deleted
+4749;A security-disabled global group was created
+4750;A security-disabled global group was changed
+4751;A member was added to a security-disabled global group
+4752;A member was removed from a security-disabled global group
+4753;A security-disabled global group was deleted
+4754;A security-enabled universal group was created
+4755;A security-enabled universal group was changed
+4756;A member was added to a security-enabled universal group
+4757;A member was removed from a security-enabled universal group
+4758;A security-enabled universal group was deleted
+4759;A security-disabled universal group was created
+4760;A security-disabled universal group was changed
+4761;A member was added to a security-disabled universal group
+4762;A member was removed from a security-disabled universal group
+4763;A security-disabled universal group was deleted
+4764;A groups type was changed
+4765;SID History was added to an account
+4766;An attempt to add SID History to an account failed
+4767;A user account was unlocked
+4778;A session was reconnected to a Window Station.
+4779;A session was disconnected from a Window Station.
+4780;The ACL was set on accounts which are members of administrators groups
+4781;The name of an account was changed
+4782;The password hash an account was accessed
+4783;A basic application group was created
+4784;A basic application group was changed
+4785;A member was added to a basic application group
+4786;A member was removed from a basic application group
+4787;A non-member was added to a basic application group
+4788;A non-member was removed from a basic application group..
+4789;A basic application group was deleted
+4790;An LDAP query group was created
+4791;A basic application group was changed
+4792;An LDAP query group was deleted
+4793;The Password Policy Checking API was called
+4794;An attempt was made to set the Directory Services Restore Mode administrator password
+4799;A security-enabled local group membership was enumerated.
+4800;The workstation was locked.
+4801;The workstation was unlocked.
+4802;The screen saver was invoked.
+4803;The screen saver was dismissed.
+5376;Credential Manager credentials were backed up
+5377;Credential Manager credentials were restored from a backup

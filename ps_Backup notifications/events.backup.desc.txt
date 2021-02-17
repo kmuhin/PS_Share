@@ -1,0 +1,21 @@
+eventid: 14
+event-eventdata
+	<Data Name="BackupTime">2013-10-13T21:09:46.598131100Z</Data>
+	начало бэкапа в GMT0
+	<Data Name="TargetSnapEndTime">2013-10-13T21:18:32.467713400Z</Data>
+	окончание бэкапа
+	
+
+event-eventdata-<Data Name="VolumesInfo">-<VolumeInfo>
+		бэкапы дисков
+		VolumeInfoItem
+			name - имя диска
+			TotalSize - байт данных для передачи 
+			DataTransferred - байт передано данных
+			IsIncremental="1" - инкремент
+
+event-eventdata-<Data Name="ComponentInfo">-<ComponentInfo>
+		бэкап компонентов (виртуальные машины)
+		ComponentInfoItem
+пример:
+<ComponentInfoItem WriterId="{66841cd4-6ded-4f4b-8f17-fd23f8ddc3de}" InstanceId="{b81e4118-e5fc-47d7-a6e2-0291e231418c}" Name="85CADF52-D9D6-4991-909C-F1045F96D0E3" LogicalPath="" Caption="Backup Using Saved State\XDB (backup)" AppName="HyperV" hResult="0" hDetailedResult="0" IsFullBackup="1" FullBackupReason="0" Size="72124895106" DataTransferred="0" TotalNoOfFiles="0" />
